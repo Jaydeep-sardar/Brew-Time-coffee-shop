@@ -29,8 +29,7 @@ This is a responsive **Coffee Shop Website** built using **HTML**, **CSS**, and 
 │   └── style.css
 ├── img/
 │   └── [images used in the website]
-├── js/
-│   └── [optional JavaScript if needed]
+updat
 ```
 
 ### 💡 Live Demo
