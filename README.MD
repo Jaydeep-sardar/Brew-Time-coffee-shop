@@ -1,6 +1,4 @@
-Here’s a clean and professional **coffee shop website description** you can use for your GitHub README. It's tailored for a project built with **HTML, CSS, and Bootstrap**:
 
----
 
 ## ☕ Coffee Shop Website
 
