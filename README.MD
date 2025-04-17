@@ -35,7 +35,7 @@ This is a responsive **Coffee Shop Website** built using **HTML**, **CSS**, and 
 
 ### 💡 Live Demo
 
-[Click here to view the live website](#) *(Replace with your deployed link)*
+http://127.0.0.1:5500/index.html#
 
 ### 📬 Contact
 
