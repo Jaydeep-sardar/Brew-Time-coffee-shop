@@ -30,12 +30,13 @@ This is a responsive **Coffee Shop Website** built using **HTML**, **CSS**, and 
 
 ```
 
-### 💡 Live Demo
-
-http://127.0.0.1:5500/index.html#
 
 ### 📬 Contact
 
 If you want to contribute or share feedback, feel free to reach out or open an issue!
 
 ---
+## 🙏 Thank You
+
+Thank you for checking out this project!  
+If you liked it or found it useful, feel free to ⭐ star the repo or share your feedback!
